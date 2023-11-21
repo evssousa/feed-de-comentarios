@@ -1,6 +1,7 @@
 .container {
     background-color: #eaeaea;
     padding: 50px;
+    margin-top: 50px;
     border-radius: 5px;
 }
 
@@ -17,7 +18,7 @@
 }
 
 .container .boxComentarios form input {
-    width: 500px;
+    /* width: 500px; */
     height: 40px;
     border-radius: 3px;
     border: 1px solid gray;

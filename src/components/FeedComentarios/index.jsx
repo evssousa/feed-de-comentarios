@@ -16,7 +16,7 @@ export default function FeedComentarios() {
                     <input type="email" name="email" id="email" />
 
                     <label htmlFor="comentario">Comentario:</label>
-                    <textarea name="comentario" id="comentario" cols="30" rows="7"></textarea>
+                    <textarea name="comentario" id="comentario" cols="80" rows="7"></textarea>
 
                     <button type='submit'>Enviar comentário</button>
                 </form>
